@@ -1,0 +1,3 @@
+D:/Ubb/SDD/TAD-COLECTIE/cmake-build-debug/CMakeFiles/Seminar_2.dir
+D:/Ubb/SDD/TAD-COLECTIE/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Ubb/SDD/TAD-COLECTIE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
